@@ -1,0 +1,25 @@
+{
+  "name": "angularClient",
+  "homepage": "https://github.com/wagnerteixeira/laravelangular",
+  "authors": [
+    "Wagner Bernardes Teixeira <wagnerbernardesteixeira@gmail.com>"
+  ],
+  "description": "Angular Client Application",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.3",
+    "angular-resource": "^1.5.3",
+    "angular-route": "^1.5.3",
+    "Materialize": "materialize#^0.97.5",
+    "jquery": "^2.2.2"
+  }
+}
